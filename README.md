@@ -8,8 +8,12 @@
 🌱 I’m currently learning JavaScript, Python, AWS, and all things analytics  
 😄 Pronouns: he/him  
 💌 How to reach me: hmd[at]needleinthehay.ca  
+📄 [My CV](https://needleinthehay.ca/cv.pdf)
+📝 [My Blog](https://needleinthehay.ca/)
 
 ### 💻 Open Source Stats
 
 [![Hayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaydenMacDonald&show_icons=true)](https://github.com/HaydenMacDonald/github-readme-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaydenMacDonald&layout=compact&exclude_repo=needle-in-the-hay,rweekly.org)
+
+### See my projects below! ⬇️
