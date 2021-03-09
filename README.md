@@ -6,7 +6,7 @@
 🔭 I’m currently working at an unlaunched start-up!  
 🌱 I’m currently learning JavaScript, Python, AWS, and all things analytics  
 😄 Pronouns: he/him  
-💌 How to reach me: hmd[at]needleinthehay.ca  
+💌 How to reach me: hmd@needleinthehay.ca  
 
 ### 💻 Open Source Stats
 
