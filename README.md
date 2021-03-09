@@ -8,8 +8,8 @@
 🌱 I’m currently learning JavaScript, Python, AWS, and all things analytics  
 😄 Pronouns: he/him  
 💌 How to reach me: hmd[at]needleinthehay.ca  
-📄 [My CV](https://needleinthehay.ca/cv.pdf)
-📝 [My Blog](https://needleinthehay.ca/)
+📄 [My CV](https://needleinthehay.ca/cv.pdf)  
+📝 [My Blog](https://needleinthehay.ca/)  
 
 ### 💻 Open Source Stats
 
