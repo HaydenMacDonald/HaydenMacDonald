@@ -10,7 +10,5 @@
 
 ### 💻 Open Source Stats
 
-[![Hayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaydenMacDonald)](https://github.com/HaydenMacDonald/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaydenMacDonald)
-
-
+[![Hayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaydenMacDonald)](https://github.com/HaydenMacDonald/github-readme-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaydenMacDonald&layout=compact&exclude_repo=nith,needle-in-the-hay,rweekly.org)
