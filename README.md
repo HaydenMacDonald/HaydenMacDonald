@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋 I'm Hayden MacDonald</h2>
 <h3 align="center">Data Analyst • MSc in Business Analytics</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-haydenmacdonald-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hayden-macdonald/)](https://www.linkedin.com/in/hayden-macdonald/)
+[![Linkedin Badge](https://img.shields.io/badge/-haydenmacdonald-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hayden-macdonald/)](https://www.linkedin.com/in/hayden-macdonald/)
 [![Twitter Badge](https://img.shields.io/badge/-@HYDNMCDNLD-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/HYDNMCDNLD)
 
 🔭 I’m currently working at an unlaunched start-up!  
