@@ -14,8 +14,8 @@
 ### 💻 Open Source Stats
 
 <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=HaydenMacDonald&show_icons=true" media="(data-color-mode: light)"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=HaydenMacDonald&show_icons=true&theme=dark"/>
+    <img srcset="https://github-readme-stats.vercel.app/api?username=HaydenMacDonald&show_icons=true" media="(data-color-mode: light)"/>
+    <img srcset="https://github-readme-stats.vercel.app/api?username=HaydenMacDonald&show_icons=true&theme=dark" media="(data-color-mode: dark)"/>
 </picture>
 
 data-color-mode="dark"
