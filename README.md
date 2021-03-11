@@ -1,16 +1,15 @@
 <h2 align="center">Hi there 👋 I'm Hayden MacDonald</h2>
 <h3 align="center">Data Analyst • MSc in Business Analytics</h3>
 
-[![Email](https://img.shields.io/badge/💌-hmd@needleinthehay.ca-blue?style=flat)](mailto:hmd@needleinthehay.ca)
+[![Email](https://img.shields.io/badge/-hmd@needleinthehay.ca-blue?style=flat&logo=microsoft-outlook)](mailto:hmd@needleinthehay.ca)
+[![Blog](https://img.shields.io/badge/Blog-Needle%20In%20The%20Hay-blue?style=flat&logo=RSS&logoColor=white)](https://needleinthehay.ca/)
 [![Linkedin Badge](https://img.shields.io/badge/-haydenmacdonald-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hayden-macdonald/)
 [![Twitter Badge](https://img.shields.io/badge/-@HYDNMCDNLD-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/HYDNMCDNLD)
 
 🔭 I’m currently working at an unlaunched start-up!  
 🌱 I’m currently learning JavaScript, Python, AWS, and all things analytics  
 😄 Pronouns: he/him  
-💌 How to reach me: hmd[at]needleinthehay.ca  
-📄 [My CV](https://needleinthehay.ca/cv.pdf)  
-📝 [My Blog](https://needleinthehay.ca/)  
+📄 [My CV](https://needleinthehay.ca/cv.pdf)   
 
 ### 💻 Open Source Stats
 
