@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-haydenmacdonald-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hayden-macdonald/)
 [![Twitter Badge](https://img.shields.io/badge/-@HYDNMCDNLD-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/HYDNMCDNLD)
 
-🔭 I’m currently working at an unlaunched start-up!  
+💼 I’m currently working at an unlaunched start-up!  
 🌱 I’m currently learning JavaScript, Python, AWS, and all things analytics  
 😄 Pronouns: he/him  
 📄 [My CV](https://needleinthehay.ca/cv.pdf)   
