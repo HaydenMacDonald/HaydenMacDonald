@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋 I'm Hayden MacDonald</h2>
 <h3 align="center">Data Analyst • MSc in Business Analytics</h3>
 
-[![Email](https://img.shields.io/badge/-hmd@needleinthehay.ca-blue?style=flat&logo=microsoft-outlook)](mailto:hmd@needleinthehay.ca)
+<img align="center" src="https://img.shields.io/badge/-hmd@needleinthehay.ca-blue?style=flat&logo=microsoft-outlook" alt="Email: hmd@needleinthehay.ca">
 [![Blog](https://img.shields.io/badge/-Needle%20in%20the%20Hay-black?style=flat&logo=RSS&logoColor=white)](https://needleinthehay.ca/)
 [![Linkedin Badge](https://img.shields.io/badge/-haydenmacdonald-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hayden-macdonald/)
 [![Twitter Badge](https://img.shields.io/badge/-@HYDNMCDNLD-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/HYDNMCDNLD)
