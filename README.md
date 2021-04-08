@@ -2,12 +2,25 @@
 <h3 align="center">Data Analyst • MSc in Business Analytics</h3>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-hmd@needleinthehay.ca-blue?style=flat&logo=microsoft-outlook" alt="Email: hmd@needleinthehay.ca"/>
+    <a href="mailto:hmd@needleinthehay.ca">
+        <img src="https://img.shields.io/badge/-hmd@needleinthehay.ca-blue?style=flat&logo=microsoft-outlook" alt="Email: hmd@needleinthehay.ca"/>
+    </a>
 </p>
-
-[![Blog](https://img.shields.io/badge/-Needle%20in%20the%20Hay-black?style=flat&logo=RSS&logoColor=white)](https://needleinthehay.ca/)
-[![Linkedin Badge](https://img.shields.io/badge/-haydenmacdonald-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hayden-macdonald/)
-[![Twitter Badge](https://img.shields.io/badge/-@HYDNMCDNLD-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/HYDNMCDNLD)
+<p align="center">
+    <a href="https://needleinthehay.ca/">
+    <img src="https://img.shields.io/badge/-Needle%20in%20the%20Hay-black?style=flat&logo=RSS&logoColor=white" alt="Blog: Needle in the Hay"/>
+    </a>
+</p>
+<p align="center">
+    <a href="https://www.linkedin.com/in/hayden-macdonald/">
+    <img src="https://img.shields.io/badge/-haydenmacdonald-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn: Hayden MacDonald"/>
+    </a>
+</p>
+<p align="center">
+    <a href="https://twitter.com/HYDNMCDNLD">
+    <img src="https://img.shields.io/badge/-@HYDNMCDNLD-00acee?style=flat&logo=Twitter&logoColor=white" alt="Twitter: Hayden MacDonald"/>
+    </a>
+</p>
 
 💼 I’m currently working at an unlaunched start-up!  
 🌱 I’m currently learning JavaScript, Python, AWS, and all things analytics  
