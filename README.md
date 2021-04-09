@@ -23,12 +23,10 @@
 
 ### 💻 Open Source Stats
 
-<p align="center">
 <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=HaydenMacDonald&show_icons=true" media="(data-color-mode: light)"/>
     <source srcset="https://github-readme-stats.vercel.app/api?username=HaydenMacDonald&show_icons=true&theme=dark" media="(data-color-mode: dark)"/>
 </picture>
-</p>
 
 [![Hayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaydenMacDonald&show_icons=true)](https://github.com/HaydenMacDonald/github-readme-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaydenMacDonald&layout=compact&exclude_repo=needle-in-the-hay,rweekly.org&hide=html,css&langs_count=8)
