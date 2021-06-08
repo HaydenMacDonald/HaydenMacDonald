@@ -31,4 +31,4 @@
 [![Hayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaydenMacDonald&show_icons=true)](https://github.com/HaydenMacDonald/github-readme-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaydenMacDonald&layout=compact&exclude_repo=needle-in-the-hay,rweekly.org&hide=html,css&langs_count=8)
 
-### See my projects below! ⬇️
+### See my projects and others I've contributed to below! ⬇️
