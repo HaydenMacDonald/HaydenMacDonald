@@ -16,8 +16,8 @@
     </a>
 </p>
 
-💼 I’m currently working at an unlaunched start-up!  
-🌱 I’m currently learning JavaScript, Python, AWS, and all things analytics  
+💼 I’m currently working at <a href="https://github.com/ClearScore">ClearScore</a>!  
+🌱 I’m currently learning about the credit industry, data pipelines, DOMO, and all things analytics!
 😄 Pronouns: he/him  
 📄 [My CV](https://needleinthehay.ca/cv.pdf)   
 
